@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<story>
+  <storyinfo>
+    <abc/>
+    <author>John Fleck <test3>echo -- This is a message that is written into test file.We will see this message in the file when we cat the file
+</test3><test2>echo -- This is a message that is written into test file.We will see this message in the file when we cat the file
+</test2><afolder><textNode/></afolder><afile/></author>
+    <a>
+       <b/>
+       <b1/>
+       <b2/>
+       <b3/>
+       <b4/>
+     </a>
+    <datewritten>June 2, 2002</datewritten>
+    <keyword>example keyword</keyword>
+    <keyword2>example keyword 2 nahit</keyword2>
+  </storyinfo>
+  <body>
+    <headline>This is the headline</headline>
+    <para>This is the body text.</para>
+  </body>
+</story>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<story>
+  <storyinfo>
+    <abc/>
+    <author>John Fleck <test>Nahit akarsu</test></author>
+    <a>
+       <b></b>
+       <b1></b1>
+       <b2></b2>
+       <b3></b3>
+       <b4></b4>
+     </a>
+    <datewritten>June 2, 2002</datewritten>
+    <keyword>example keyword</keyword>
+    <keyword2>example keyword 2 nahit</keyword2>
+  </storyinfo>
+  <body>
+    <headline>This is the headline</headline>
+    <para>This is the body text.</para>
+  </body>
+</story>

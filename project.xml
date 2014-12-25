@@ -1,0 +1,24 @@
+<project1>
+    <type1>org.netbeans.modules.cnd.makeproject</type1>
+    <configuration1>
+            <name1>Final_Project_Fuse</name1>
+        <data1>
+            <name2>Final_Project_Fuse</name2>
+            <cextensions1>c</cextensions1>
+            <sourceEncoding1>UTF-8</sourceEncoding1>
+            <confList>
+                <confElem1>
+                    <name1>Debug</name1>
+                    <type1>1</type1>
+                </confElem1>
+                <confElem2>
+                    <name2>Release</name2>
+                    <type2>1</type2>
+                </confElem2>
+            </confList>
+            <formatting>
+                <projectformattingstyle>false</projectformattingstyle>
+            </formatting>
+        </data1>
+    </configuration1>
+</project1>
